@@ -15,10 +15,3 @@ Paste this into Foundry's "Install Module" > Manifest URL:
 https://jaeyte.github.io/fvtt-chi-pool/module.json
 ```
 
-## Setup for GitHub Pages
-1. Push this repo to GitHub.
-2. Enable GitHub Pages on the main branch, root.
-3. Ensure `chi-pool.zip`, `module.json`, and `manifest.json` are in the root.
-
-## License
-MIT — Use freely.
