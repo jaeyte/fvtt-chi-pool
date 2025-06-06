@@ -1,0 +1,18 @@
+{
+  "id": "chi-pool",
+  "title": "Chi Pool Sheet Extension",
+  "description": "Adds a visible and interactive Chi Pool to Pathfinder 2e character sheets.",
+  "version": "1.0.0",
+  "authors": [{ "name": "jt" }],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "scripts": ["scripts/override-sheet.js"],
+  "styles": ["styles/sheet.css"],
+  "url": "https://github.com/jaeyte/fvtt-chi-pool",
+  "manifest": "https://jaeyte.github.io/fvtt-chi-pool/module.json",
+  "download": "https://jaeyte.github.io/fvtt-chi-pool/chi-pool.zip",
+  "readme": "https://github.com/jaeyte/fvtt-chi-pool#readme",
+  "license": "MIT"
+}
